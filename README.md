@@ -10,3 +10,4 @@
 
 * Make use of stacks when consecutive elements have a relation
 * Toggling case is easier with xor
+* (**dlang**): use std.experimental.all to import all of Phobos
